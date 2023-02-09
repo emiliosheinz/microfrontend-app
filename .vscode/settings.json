@@ -2,6 +2,7 @@
   "conventionalCommits.scopes": [
     "marketing",
     "container",
-    "common"
+    "common",
+    "auth"
   ]
 }
