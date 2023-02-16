@@ -36,5 +36,10 @@ module.exports = {
       },
     ],
   },
-  plugins: [new VueLoaderPlugin()]
+  plugins: [
+    new VueLoaderPlugin(),
+    new HtmlWebpackPlugin({
+      template: './public/index.html',
+    }),
+  ]
 }
