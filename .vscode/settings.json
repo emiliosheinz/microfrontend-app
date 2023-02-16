@@ -3,6 +3,7 @@
     "marketing",
     "container",
     "common",
-    "auth"
+    "auth",
+    "dashboard"
   ]
 }
