@@ -1,7 +1,7 @@
 
 # 🧱 Microfrontends App
 
-Modular application builded with Microdrontends architecture during the [Microfrontends with React: A Complete Developer's Guide](https://www.udemy.com/course/microfrontend-course/) course.
+Modular application built with Microdrontends architecture during the [Microfrontends with React: A Complete Developer's Guide](https://www.udemy.com/course/microfrontend-course/) course.
 
 
 
