@@ -3,8 +3,6 @@
 
 Modular application built with Microdrontends architecture during the [Microfrontends with React: A Complete Developer's Guide](https://www.udemy.com/course/microfrontend-course/) course.
 
-
-
 ## 💾 Architecture
 
 ![image](https://user-images.githubusercontent.com/103655828/221702470-66c38028-19e2-4301-a2d4-f82a9a7011fd.png)
