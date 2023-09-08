@@ -26,7 +26,3 @@ Modular application built with Microdrontends architecture during the [Microfron
 - Vue
 - Amazon S3
 - GitHub Actions
-
-## 👨🏼‍🚀 Contributors
-
-- @emiliosheinz
